@@ -40,14 +40,14 @@
                 <div class="article">
                     <div class="article-texto">
                         <h2>Nuestra Joyería</h2>
-                        <p>Nuestra Joyeria mas nuevo demuestra la creatividad de Tiffany y una calidad de diseño inigualable</p>
+                        <p>Nuestra Joyeria mas nuevo demuestra la creatividad de Soyeon y una calidad de diseño inigualable</p>
                     </div>
                     <img src="img/art1.jfif" alt="">
                 </div>
                 <div class="article2">
                     <div class="article-texto">
-                        <h2>Nuestra Joyería</h2>
-                        <p>Nuestra Joyeria mas nuevo demuestra la creatividad de Tiffany y una calidad de diseño inigualable</p>
+                        <h2> Estamos a la vanguardia</h2>
+                        <p>Con nosotros obtendras los ultimos diseños, hechos por diseñadores reconocidos mundialmente</p>
                     </div>
                     <img src="img/art1.jfif" alt="">
                 </div>
